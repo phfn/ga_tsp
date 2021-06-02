@@ -1,0 +1,7 @@
+pandas
+numpy
+numba
+matplotlib
+tqdm
+timebudget
+pytest
